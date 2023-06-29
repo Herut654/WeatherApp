@@ -8,6 +8,7 @@ import { createTheme, ThemeProvider } from '@material-ui/core/styles';
 
 const App = () => {
   const dispatch = useDispatch()
+  
   const TelAviv = {
     latitude: 32.0853,
     longitude: 34.7818
